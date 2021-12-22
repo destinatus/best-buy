@@ -1,0 +1,14 @@
+{
+    "austin01":{
+        "password": "testpass",
+        "fname": "John",
+        "lname": "Austin",
+        "email": "john@mail.com"
+    },
+    "test":{
+        "password": "test",
+        "fname": "Tester",
+        "lname": "Testing",
+        "email": "test@mail.com"
+    }
+}
